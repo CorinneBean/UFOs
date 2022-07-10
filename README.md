@@ -1,5 +1,5 @@
 # UFOs
- Javascrript, Bootstrap, and UFOs
+ Javascript, Bootstrap, and UFOs
 
 ## Project Overview
 This project demostrates the ability to build a dynamic webpage that allows users to filter the data to display information about UFO sightings. To allow customization of the data so that only the most relevant information is displayed several filters were created for the user to utilize. 

@@ -10,7 +10,7 @@ This project demostrates the ability to build a dynamic webpage that allows user
 Below I have taken the liberty to break down the different search fields. Each field will automatically update the table as you enter in the filter criteria. You can filter each section individually or you can add multiple filter criteria to get the data that you want.
 
 #### 1. Index page
-[index.html](https://corinnebean.github.io/UFOs) is the initial html page. Clicking on the navbar at the top of the page will set all filters back to default.
+[index.html]((https://github.com/CorinneBean/UFOs/blob/a174a4e247eef529d29fcb50c35ae3049510761e/index.html) is the initial html page. Clicking on the navbar at the top of the page will set all filters back to default.
 ![Index Page](https://github.com/CorinneBean/UFOs/blob/dd6427088ce4e4157e911534f95c71afda6a293f/Static/Images/Indexpage.png)
 
 #### 2. Filtering by event date
